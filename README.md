@@ -1,2 +1,7 @@
-# IOC_CCP_IP
-High number of unknown IPs and authentication failures
+204.76.203.15
+54.211.96.123
+165.154.218.158
+114.143.133.106
+207.90.244.29
+185.94.111.1
+109.248.43.169
